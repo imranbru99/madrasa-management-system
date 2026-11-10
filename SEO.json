@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "madrasa-management-system",
+  "description": "Madrasa Management System — Education Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Madrasa management for student boarding, classes, exams, donations, and fee tracking. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "education",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/madrasa-management-system"
+}
